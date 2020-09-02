@@ -1,6 +1,6 @@
 # Meal Search
 
-#### [Check it live here](https://rushil-dhinoja.github.io/infinite-scroll/)
+#### [Check it live here](https://rushil-dhinoja.github.io/meal-search//)
 
 ![Home page of the Meal Search](./img/home.png "Meal Search")
 
